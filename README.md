@@ -1,2 +1,2 @@
 # intro-github
-GitHub
+GitHub 入门
